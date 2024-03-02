@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698219498325",
+    "project_id": "zaraclone-137b5",
+    "storage_bucket": "zaraclone-137b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698219498325:android:773e33687ea7f6adf4fddc",
+        "android_client_info": {
+          "package_name": "com.zaraclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_KAK5xyzqyuVyGuWhOoOV6RK8FuKYHcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
